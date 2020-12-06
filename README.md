@@ -13,4 +13,5 @@ Can be used in a Configuration baseline in SCCM to deploy on a large scale for t
 
 # File
 Fix-EscalationofPerms-W7+2008R2.ps1
+
   powershell script to create the keys and change the ACLs on their parents.  Just run it from powershell. Works on W7 and Server 2008R2
